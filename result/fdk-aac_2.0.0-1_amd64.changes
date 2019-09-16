@@ -1,0 +1,48 @@
+Format: 1.8
+Date: Mon, 16 Nov 2018 14:27:37 +0900
+Source: fdk-aac
+Binary: libfdk-aac2 libfdk-aac-dev aac-enc
+Architecture: source amd64
+Version: 2.0.0-1
+Distribution: stable
+Urgency: medium
+Maintainer: Debian Multimedia Maintainers <debian-multimedia@lists.debian.org>
+Changed-By: Yuntaek Lim <yuntaek.lim@wavve.com>
+Description:
+ aac-enc    - Fraunhofer FDK AAC Codec Library - frontend binary
+ libfdk-aac-dev - Fraunhofer FDK AAC Codec Library - development files
+ libfdk-aac2 - Fraunhofer FDK AAC Codec Library - runtime files
+Changes:
+ fdk-aac (2.0.0-1) stable; urgency=medium
+ .
+   * Update fdk-aac to 2.0
+Checksums-Sha1:
+ bff79e48c47aed329b2a1abce81d9d3739bed888 1190 fdk-aac_2.0.0-1.dsc
+ a98a3f2b0658683c51739f6362f496e3d7d2c073 2488517 fdk-aac_2.0.0.orig.tar.gz
+ 7d4b122d5c45409eda18e97420b9c2982f8eb7d8 5156 fdk-aac_2.0.0-1.debian.tar.xz
+ 70ccd01c72ae2b9614691829d53056fa754fccdd 12000 aac-enc-dbgsym_2.0.0-1_amd64.ddeb
+ 73a54a4b731369921f4f26a0bf334dc4e9b8a80b 886428 aac-enc_2.0.0-1_amd64.deb
+ 658107f15026ef4d356d63264a7f60a2656e4ccc 6741 fdk-aac_2.0.0-1_amd64.buildinfo
+ 16bd3bfae4e8425f6c47abc51c555993857aa67d 48928 libfdk-aac-dev_2.0.0-1_amd64.deb
+ b1ff15233b825af61969652dae7bc172046d3185 2270868 libfdk-aac2-dbgsym_2.0.0-1_amd64.ddeb
+ ba4f1732b337d6c8fa9d2333fcd3eba37032a3b3 629912 libfdk-aac2_2.0.0-1_amd64.deb
+Checksums-Sha256:
+ 9d46006b80478e7748c2f867358668b26af51ffbb310ffb2e6aff8fb4933a67e 1190 fdk-aac_2.0.0-1.dsc
+ 6e6c7921713788e31df655911e1d42620b057180b00bf16874f5d630e1d5b9a2 2488517 fdk-aac_2.0.0.orig.tar.gz
+ fbe54d31611170de5ab5ca73c3fb3d8042d86995dc0223a40131a654d1ded951 5156 fdk-aac_2.0.0-1.debian.tar.xz
+ 614705ea220c5e6fb554cc01c0a89df4e15d9669c8d691bd85a912d5a70a2483 12000 aac-enc-dbgsym_2.0.0-1_amd64.ddeb
+ f983f0e266868d21e372f4f099cf3ec9e9a10d2369d30eb18dd1ca24cdd1bf9c 886428 aac-enc_2.0.0-1_amd64.deb
+ 357f80959334f8f347c89ba23ef5b08fef24ef65e43c3a5a1b85364cf13e6c7d 6741 fdk-aac_2.0.0-1_amd64.buildinfo
+ b5e98be2cf7dd8b006ce84fd19f6619edeba611b96aaa980cd661ea26927ca14 48928 libfdk-aac-dev_2.0.0-1_amd64.deb
+ 591bdbf5aac3b6a0a325445aa332581134594baa1a9c64cccbad515cf361bb31 2270868 libfdk-aac2-dbgsym_2.0.0-1_amd64.ddeb
+ 0368e3d2375699cb214a25e3c1c1120a20f142e70e4a1bf2b14932a930a3e6e8 629912 libfdk-aac2_2.0.0-1_amd64.deb
+Files:
+ b3c7149d6cc32158a2b87f27b53c63a2 1190 non-free/libs optional fdk-aac_2.0.0-1.dsc
+ 0d7c8d530a37fafa681b795b8a60c176 2488517 non-free/libs optional fdk-aac_2.0.0.orig.tar.gz
+ 872d7284ee26779bbfe605a310d2e457 5156 non-free/libs optional fdk-aac_2.0.0-1.debian.tar.xz
+ c919c69fe0b497fd3ea915398db90420 12000 non-free/debug optional aac-enc-dbgsym_2.0.0-1_amd64.ddeb
+ d0948a4b922d8a072f7a01e12b095cf9 886428 non-free/sound optional aac-enc_2.0.0-1_amd64.deb
+ 269097c1d285bfc672d86f8aa946fd05 6741 non-free/libs optional fdk-aac_2.0.0-1_amd64.buildinfo
+ 8214ff5cd395798a2b48524c09a1d7dd 48928 non-free/libdevel optional libfdk-aac-dev_2.0.0-1_amd64.deb
+ 172de1301820ae6f86d46180a3ff1a0f 2270868 non-free/debug optional libfdk-aac2-dbgsym_2.0.0-1_amd64.ddeb
+ 7e102d60ba8f931866e2509d8d705cc6 629912 non-free/libs optional libfdk-aac2_2.0.0-1_amd64.deb
