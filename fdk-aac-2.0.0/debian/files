@@ -1,6 +1,0 @@
-aac-enc-dbgsym_2.0.0-1_amd64.ddeb non-free/debug optional
-aac-enc_2.0.0-1_amd64.deb non-free/sound optional
-fdk-aac_2.0.0-1_amd64.buildinfo non-free/libs optional
-libfdk-aac-dev_2.0.0-1_amd64.deb non-free/libdevel optional
-libfdk-aac2-dbgsym_2.0.0-1_amd64.ddeb non-free/debug optional
-libfdk-aac2_2.0.0-1_amd64.deb non-free/libs optional
